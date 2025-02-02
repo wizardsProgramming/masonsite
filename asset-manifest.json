@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/masonwebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/masonwebsite/static/js/main.daed4b9d.js",
+    "index.html": "/masonwebsite/index.html",
+    "main.e6c13ad2.css.map": "/masonwebsite/static/css/main.e6c13ad2.css.map",
+    "main.daed4b9d.js.map": "/masonwebsite/static/js/main.daed4b9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.daed4b9d.js"
+  ]
+}
